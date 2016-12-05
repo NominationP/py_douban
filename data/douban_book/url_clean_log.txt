@@ -1,0 +1,7 @@
+
+   Culture       32583       23234
+      Life       19315       15084
+Literature       29939       14035
+Management       11873        7394
+   Popular       25097       18285
+   Science        9980        6812

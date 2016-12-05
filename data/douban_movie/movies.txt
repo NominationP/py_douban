@@ -1,0 +1,20 @@
+七月与安生,https://movie.douban.com/subject/25827935/,https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2378140502.jpg,False,False,7.6,644,True,25827935,900
+久保与二弦琴 Kubo and the Two Strings,https://movie.douban.com/subject/26287884/,https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2294106717.jpg,False,False,7.7,4050,False,26287884,6000
+酒神小姐 죽여주는 여자,https://movie.douban.com/subject/26713504/,https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2376084941.jpg,False,True,8.1,1300,False,26713504,1856
+舞力重击 High Strung,https://movie.douban.com/subject/26388981/,https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2322497569.jpg,False,True,6.7,4500,False,26388981,6450
+植物图鉴 植物図鑑 運命の恋ひろいました,https://movie.douban.com/subject/26429883/,https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2321836780.jpg,False,True,6.3,707,False,26429883,1000
+爱恋 Loving,https://movie.douban.com/subject/26617076/,https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2352424380.jpg,False,True,7.1,972,True,26617076,1440
+斯诺登 Snowden,https://movie.douban.com/subject/25900819/,https://img5.doubanio.com/view/movie_poster_cover/lpst/public/p2341351626.jpg,False,False,7.6,1922,False,25900819,3000
+比海更深 海よりもまだ深く,https://movie.douban.com/subject/26694988/,https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2342671303.jpg,False,False,8.6,1200,False,26694988,1690
+赴汤蹈火 Hell or High Water,https://movie.douban.com/subject/26389148/,https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2351955874.jpg,False,False,7.8,2764,False,26389148,4096
+假如猫从世界上消失了 世界から猫が消えたなら,https://movie.douban.com/subject/25984803/,https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2324946184.jpg,False,False,7.2,1200,False,25984803,1705
+幸运钥匙 럭키,https://movie.douban.com/subject/26329796/,https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2378731382.jpg,False,False,7.2,950,False,26329796,1361
+军火贩 War Dogs,https://movie.douban.com/subject/6872936/,https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2375459359.jpg,False,False,7.2,600,False,6872936,865
+香肠派对 Sausage Party,https://movie.douban.com/subject/4944008/,https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2371145119.jpg,False,False,7.2,1382,True,4944008,2048
+长江图,https://movie.douban.com/subject/7062596/,https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2374818544.jpg,False,False,6.9,2528,True,7062596,3538
+请叫我英雄 アイアムアヒーロー,https://movie.douban.com/subject/25899379/,https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2395074307.jpg,False,False,7.0,770,False,25899379,1080
+机械师2：复活 Mechanic: Resurrection,https://movie.douban.com/subject/25825412/,https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2385311728.jpg,False,False,5.6,5906,False,25825412,8268
+自杀小队 Suicide Squad,https://movie.douban.com/subject/3569910/,https://img5.doubanio.com/view/movie_poster_cover/lpst/public/p2363084076.jpg,False,False,6.1,2764,False,3569910,4096
+圆梦巨人 The BFG,https://movie.douban.com/subject/25875021/,https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2386736909.jpg,False,False,6.8,1142,False,25875021,1600
+红海龟 La tortue rouge,https://movie.douban.com/subject/26376558/,https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2334278462.jpg,False,False,7.4,1280,False,26376558,1719
+但丁密码 Inferno,https://movie.douban.com/subject/24860318/,https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2388072933.jpg,False,False,6.4,8550,False,24860318,11850
